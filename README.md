@@ -1,1 +1,2 @@
-# LoaderBot
+# LoaderBot  
+Бот - Загрузчик новостей.  
